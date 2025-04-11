@@ -1,0 +1,8 @@
+/home/jayanth/Code/SPP/big-board-matrix-matrix-multiplication-jayanth260/build/CMakeFiles/edit_cache.dir
+/home/jayanth/Code/SPP/big-board-matrix-matrix-multiplication-jayanth260/build/CMakeFiles/rebuild_cache.dir
+/home/jayanth/Code/SPP/big-board-matrix-matrix-multiplication-jayanth260/build/src/CMakeFiles/studentlib.dir
+/home/jayanth/Code/SPP/big-board-matrix-matrix-multiplication-jayanth260/build/src/CMakeFiles/edit_cache.dir
+/home/jayanth/Code/SPP/big-board-matrix-matrix-multiplication-jayanth260/build/src/CMakeFiles/rebuild_cache.dir
+/home/jayanth/Code/SPP/big-board-matrix-matrix-multiplication-jayanth260/build/tester/CMakeFiles/tester.dir
+/home/jayanth/Code/SPP/big-board-matrix-matrix-multiplication-jayanth260/build/tester/CMakeFiles/edit_cache.dir
+/home/jayanth/Code/SPP/big-board-matrix-matrix-multiplication-jayanth260/build/tester/CMakeFiles/rebuild_cache.dir
